@@ -1,0 +1,5 @@
+D:\معلوماتية 3\project\N_QuanHau\N_QuanHau\bin\Debug\N_QuanHau.exe
+D:\معلوماتية 3\project\N_QuanHau\N_QuanHau\bin\Debug\N_QuanHau.pdb
+D:\معلوماتية 3\project\N_QuanHau\N_QuanHau\obj\Debug\N_QuanHau.csprojResolveAssemblyReference.cache
+D:\معلوماتية 3\project\N_QuanHau\N_QuanHau\obj\Debug\N_QuanHau.exe
+D:\معلوماتية 3\project\N_QuanHau\N_QuanHau\obj\Debug\N_QuanHau.pdb
